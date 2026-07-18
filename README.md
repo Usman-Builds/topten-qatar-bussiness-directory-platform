@@ -262,7 +262,7 @@ Even though the code isn't shared, here's what's running behind the scenes:
 **Top10 Qatar** — designed & developed end‑to‑end (backend, three front‑end portals, integrations, and DevOps).
 
 **Usman Ghani**
-[LinkedIn](https://www.linkedin.com/in/usman-ghani-763468255/) · [Craftedbyusman@gmail.com](mailto:Craftedbyusman@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/usman-ghani-763468255/) · [craftedbyusman@gmail.com](mailto:Craftedbyusman@gmail.com)
 
 Built for Qatar. Source code is the property of the client and is not distributed.
 
