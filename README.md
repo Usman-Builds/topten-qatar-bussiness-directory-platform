@@ -16,25 +16,25 @@
 
 ---
 
-> ### 🔒 About the source code
+> ### About the source code
 > **Top10 Qatar was designed and built by me for a client.** The application source code is the **client's property** and is therefore **not published** in this repository.
 >
 > This repository exists to **showcase the product** — its features, architecture, and screenshots — for portfolio purposes only. No proprietary code, credentials, or client data are included here.
 
 ---
 
-## 🌐 Live Links
+## Live Links
 
 | Portal | Audience | Link |
 | ------ | -------- | ---- |
-| 🛍️ **Consumer Website** | The public — discover & review businesses | **[🔗 Visit Live Site](#)** &nbsp;`‹ https://www.qatartopten.net/en ›` |
-| 💼 **Business Dashboard** | Merchants — manage listings, boosts & subscriptions | **[🔗 Visit Live Dashboard](#)** &nbsp;`‹ https://business.qatartopten.net/en ›` |
-| 🛡️ **Admin Panel** | Internal operations & moderation | 🔒 *Private — not publicly linked (features documented [below](#-admin-panel-internal))* |
+| **Consumer Website** | The public — discover & review businesses | **[Visit Live Site](https://www.qatartopten.net/en)** |
+| **Business Dashboard** | Merchants — manage listings, boosts & subscriptions | **[Visit Live Dashboard](https://business.qatartopten.net/en)** |
+| **Admin Panel** | Internal operations & moderation | *Private — not publicly linked (features documented [below](#admin-panel--internal))* |
 
 
 ---
 
-## 📖 What is Top10 Qatar?
+## What is Top10 Qatar?
 
 **Top10 Qatar** is a full, production‑grade platform that helps people in Qatar discover the best local businesses — restaurants, cafés, salons, services and more — while giving business owners a complete toolkit to list, promote, and grow their presence, and giving the operating team a powerful back office to run it all.
 
@@ -56,22 +56,22 @@ It is a **multi‑application system** built around a single API, with three sep
 
 ---
 
-## ✨ Highlights at a Glance
+## Highlights at a Glance
 
-- 🌍 **Fully bilingual** — every screen available in **English & Arabic**, with true RTL mirroring, not just translated text.
-- ⭐ **Ratings & reviews** — verified users leave reviews; businesses can reply; **AI sentiment analysis** surfaces the mood of feedback.
-- 🚀 **Paid promotion ("Boosts")** — businesses pay to rank higher in their category for a chosen period.
-- 💳 **Subscriptions & payments** — tiered plans (Starter / Pro / Premium) with a real Qatar payment gateway (**Sadad**) integration.
-- 🧾 **Digital contracts** — merchants sign onboarding agreements electronically (**DocuSeal** e‑signature).
-- ✅ **Business verification (KYB)** — a structured "Know Your Business" document & data review workflow before a business goes live.
-- 🤖 **AI built‑in** — an AI help assistant for shoppers, an AI content assistant for merchants, and automated review‑sentiment scoring.
-- 📊 **Analytics everywhere** — growth, revenue, and engagement dashboards for admins; performance analytics for businesses.
-- 📱 **QR codes** — every listing gets a scannable QR code for print & offline marketing.
-- 🎨 **Modern, responsive UI** — light & dark mode, mobile‑first, accessible.
+- **Fully bilingual** — every screen available in **English & Arabic**, with true RTL mirroring, not just translated text.
+- **Ratings & reviews** — verified users leave reviews; businesses can reply; **AI sentiment analysis** surfaces the mood of feedback.
+- **Paid promotion ("Boosts")** — businesses pay to rank higher in their category for a chosen period.
+- **Subscriptions & payments** — tiered plans (Starter / Pro / Premium) with a real Qatar payment gateway (**Sadad**) integration.
+- **Digital contracts** — merchants sign onboarding agreements electronically (**DocuSeal** e‑signature).
+- **Business verification (KYB)** — a structured "Know Your Business" document & data review workflow before a business goes live.
+- **AI built‑in** — an AI help assistant for shoppers, an AI content assistant for merchants, and automated review‑sentiment scoring.
+- **Analytics everywhere** — growth, revenue, and engagement dashboards for admins; performance analytics for businesses.
+- **QR codes** — every listing gets a scannable QR code for print & offline marketing.
+- **Modern, responsive UI** — light & dark mode, mobile‑first, accessible.
 
 ---
 
-## 🛍️ Consumer Website — Features
+## Consumer Website — Features
 
 The public‑facing site where anyone can discover and review Qatar's best businesses.
 
@@ -91,7 +91,7 @@ The public‑facing site where anyone can discover and review Qatar's best busin
 
 ---
 
-## 💼 Business Dashboard — Features
+## Business Dashboard — Features
 
 The merchant portal where business owners manage their entire presence on Top10.
 
@@ -112,7 +112,7 @@ The merchant portal where business owners manage their entire presence on Top10.
 
 ---
 
-## 🛡️ Admin Panel — (Internal)
+## Admin Panel — (Internal)
 
 > The admin panel is an internal operations tool. Its **live URL is kept private**, but here is what it does.
 
@@ -138,7 +138,7 @@ The command center for the operations team, with **role‑based access** (Super 
 
 ---
 
-## 🧠 Under the Hood — What Makes It Powerful
+## Under the Hood — What Makes It Powerful
 
 Even though the code isn't shared, here's what's running behind the scenes:
 
@@ -155,7 +155,7 @@ Even though the code isn't shared, here's what's running behind the scenes:
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 **Backend**
 - **NestJS 11** (Node.js, TypeScript) — modular, three‑tenant API
@@ -179,13 +179,13 @@ Even though the code isn't shared, here's what's running behind the scenes:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > All images live in the [`screenshots/`](./screenshots) folder.
 
 <br/>
 
-## 🛍️ Consumer Website
+## Consumer Website
 
 <div align="center">
 
@@ -197,19 +197,19 @@ Even though the code isn't shared, here's what's running behind the scenes:
 
 <br/>
 
-| 🏬 Listing Detail | 🗂️ Category Browse | 🔎 Live Search |
+| Listing Detail | Category Browse | Live Search |
 | :--: | :--: | :--: |
 | ![Listing](./screenshots/consumer-listing.png) | ![Category](./screenshots/consumer-category.png) | ![Search](./screenshots/consumer-search.png) |
 | Full business profile: photo gallery, **Verified & Sponsored** badges, **4.4★** rating, one‑tap **Call / WhatsApp / Website / Location**, embedded map + opening hours, an AI **"90% Positive"** sentiment strip, and threaded reviews with owner replies. | A filterable grid of **ranked** listings inside a category, each card showing rank, rating and location. | Fast, debounced search across the whole directory with live results. |
 
-| ⭐ Reviews | 🔥 Trending | 🌙 Arabic (RTL) |
+| Reviews | Trending | Arabic (RTL) |
 | :--: | :--: | :--: |
 | ![Reviews](./screenshots/consumer-reviews.png) | ![Trending](./screenshots/consumer-trending.png) | ![Arabic RTL](./screenshots/consumer-arabic-rtl.png) |
 | Star ratings, AI sentiment tags and sortable review threads. | *"Trending This Week"* — what's hot across Qatar right now. | The **exact same site in Arabic** — a fully mirrored **right‑to‑left** layout, not just translated text. |
 
 <br/>
 
-## 💼 Business Dashboard
+## Business Dashboard
 
 <div align="center">
 
@@ -221,19 +221,19 @@ Even though the code isn't shared, here's what's running behind the scenes:
 
 <br/>
 
-| ✏️ Listing Editor | 📈 Analytics | 💬 Reviews & Replies |
+| Listing Editor | Analytics | Reviews & Replies |
 | :--: | :--: | :--: |
 | ![Listing Editor](./screenshots/business-listing-editor.png) | ![Business Analytics](./screenshots/business-analytics.png) | ![Business Reviews](./screenshots/business-reviews.png) |
 | Create/edit a listing — bilingual content, photos, opening hours, contact details and map location. | Views and engagement performance over time. | Read customer reviews on owned listings and **reply** to them. |
 
-| 🚀 Boosts | 💳 Subscription | ✅ Verification (KYB) |
+| Boosts | Subscription | Verification (KYB) |
 | :--: | :--: | :--: |
 | ![Boosts](./screenshots/business-boosts.png) | ![Subscription](./screenshots/business-subscription.png) | ![Business Verification](./screenshots/business-verification.png) |
 | Buy paid, time‑boxed **category promotion** to rank higher. | Manage the plan, billing and renewal (Starter / Pro / Premium). | Submit business documents & details for the **"Know Your Business"** review. |
 
 <br/>
 
-## 🛡️ Admin Panel
+## Admin Panel
 
 <div align="center">
 
@@ -245,23 +245,26 @@ Even though the code isn't shared, here's what's running behind the scenes:
 
 <br/>
 
-| 🛠️ Listings Moderation | 🏢 Businesses | 📊 Analytics |
+| Listings Moderation | Businesses | Analytics |
 | :--: | :--: | :--: |
 | ![Admin Moderation](./screenshots/admin-moderation.png) | ![Admin Businesses](./screenshots/admin-businesses.png) | ![Admin Analytics](./screenshots/admin-analytics.png) |
 | A filterable, paginated queue (**All / Pending / Approved / Rejected / Suspended**) with bilingual titles, owner, status and timestamps. | Inspect every merchant, their listings and subscriptions. | Dedicated **overview / growth / revenue** dashboards with charts. |
 
-| 🔍 Verification Queue | ✉️ Email Templates | 🗃️ Categories |
+| Verification Queue | Email Templates | Categories |
 | :--: | :--: | :--: |
 | ![Admin Verification](./screenshots/admin-verification.png) | ![Admin Email Templates](./screenshots/admin-email-templates.png) | ![Admin Categories](./screenshots/admin-categories.png) |
 | Review and approve/reject **KYB** submissions. | Visually edit every transactional email — **bilingual**, live preview, reset‑to‑default. | Full CRUD for categories & subcategories with ordering, icons and imagery. |
 
 ---
 
-## 👤 About
+## About
 
 **Top10 Qatar** — designed & developed end‑to‑end (backend, three front‑end portals, integrations, and DevOps).
 
-Built with ❤️ for Qatar. Source code is the property of the client and is not distributed.
+**Usman Ghani**
+[LinkedIn](https://www.linkedin.com/in/usman-ghani-763468255/) · [Craftedbyusman@gmail.com](mailto:Craftedbyusman@gmail.com)
+
+Built for Qatar. Source code is the property of the client and is not distributed.
 
 <div align="center">
 
